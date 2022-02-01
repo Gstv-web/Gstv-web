@@ -8,4 +8,4 @@
 - :hourglass_flowing_sand:  Busco me aprofundar em inteligência artificial.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gstv-web&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's Readme stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gstv-web&layout=default&theme=dark&langs_count=7&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's Readme stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gstv-web&layout=default&theme=dark&langs_count=7&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
