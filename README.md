@@ -8,7 +8,7 @@
 - :hourglass_flowing_sand:  Busco me aprofundar em inteligência artificial.
 <br>
 <div>
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=Gstv-web&show_icons=true&theme=dark&line_height=20"/> <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gstv-web&layout=compact&theme=dark&langs_count=7&card_width=370"/></div>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=Gstv-web&show_icons=true&theme=dark&line_height=20"/> <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gstv-web&layout=compact&theme=dark&langs_count=10&card_width=370"/></div>
 
 ### Ferramentas e Tecnologias:
 
