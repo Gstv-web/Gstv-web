@@ -1,4 +1,4 @@
-# Olá! Eu sou José Gustavo 👋
+# Oi, eu sou o Gustavo!
 
 Desenvolvedor Backend / Full Stack focado em Python, JavaScript e automação de processos.
 
