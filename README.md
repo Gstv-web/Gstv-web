@@ -57,25 +57,6 @@ Atualmente trabalho com desenvolvimento de aplicações web, integrações entre
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gstv-web&show_icons=true&theme=github_dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gstv-web&layout=compact&theme=github_dark"/>
-</div>
-
----
-
-## 🎯 Atualmente estudando
-
-- Engenharia de IA Aplicada
-- Arquitetura de Software
-- Boas práticas de Backend
-- Sistemas Distribuídos
-- LLMs e Automação com IA
-
----
-
 ## 📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/jgustavooliveira
