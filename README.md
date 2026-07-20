@@ -2,7 +2,7 @@
 
 Desenvolvedor Backend / Full Stack focado em Python, JavaScript e automação de processos.
 
-Atualmente trabalho com desenvolvimento de aplicações web, integrações entre sistemas, automações empresariais e processamento de dados.
+Atualmente procuro emprego com foco em desenvolvimento de aplicações web, integrações entre sistemas, automações empresariais e processamento de dados.
 
 ---
 
